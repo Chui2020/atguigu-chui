@@ -1,2 +1,1 @@
-hello java
-hello scala
+1 line
